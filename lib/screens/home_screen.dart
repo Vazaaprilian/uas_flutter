@@ -3,7 +3,6 @@ import 'package:material_design_icons_flutter/material_design_icons_flutter.dart
 import 'package:uts_flutter/colors.dart';
 import '../widgets/doctors_section.dart';
 
-
 // ignore: must_be_immutable
 class HomeScreen extends StatelessWidget {
   List catNames = [
